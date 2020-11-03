@@ -1,0 +1,17 @@
+#pid{
+    display: none;
+    animation-;
+}
+
+
+@keyframes anim{
+    from{
+        margin-left: 0px;
+        font-size: 10px;
+    }
+    to{
+        margin-left: 500px;
+        font-size: 100px;
+    }
+
+}
